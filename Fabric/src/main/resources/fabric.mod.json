@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
   "id": "anvilrestoration",
-  "version": "2.1",
+  "version": "2.2",
 
   "name": "Anvil Restoration",
   "description": "Adds the ability to repair placed anvils with iron ingots and destroy them with obsidian.",
   "authors": [ "Rick South" ],
   "contact": {
-    "homepage": "https://curseforge.com/minecraft/mc-mods/anvil-restoration",
-    "sources": "https://github.com/ricksouth/serilum-mc-mod-sources/tree/main/sources/Anvil%20Restoration",
-    "issues": "https://github.com/ricksouth/serilum-mc-mods/labels/Mod:%20Anvil%20Restoration"
+    "homepage": "https://serilum.com/mod/anvil-restoration",
+    "sources": "https://github.com/Serilum/Anvil-Restoration",
+    "issues": "https://github.com/Serilum/.issue-tracker/labels/Mod:%20Anvil%20Restoration"
   },
 
   "license": "All Right Reserved",
@@ -23,7 +23,7 @@
     "fabric": "*",
     "minecraft": ">=1.20",
     "java": ">=17",
-    "collective": ">=7.3"
+    "collective": ">=7.21"
   },
 
   "custom": {
