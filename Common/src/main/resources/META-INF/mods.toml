@@ -6,7 +6,7 @@ logoFile="icon.png"
 
 [[mods]]
 modId="anvilrestoration"
-version="2.2"
+version="2.3"
 displayName="Anvil Restoration"
 displayURL="https://serilum.com/mod/anvil-restoration"
 authors="Rick South"
@@ -14,7 +14,7 @@ description='''Adds the ability to repair placed anvils with iron ingots and des
 '''
 credits='''Thank you very much to my Membership sponsors for supporting the development of this mod:  
 
-Alister, Andrean Olgo, aternosorg, BirdieMiner, Cherriesaurus, Jeremy Langford, Michael W. S., Rare Students, Shana Gitnick, Tyler Behl   
+Alister, Andrean Olgo, aternosorg, Cherriesaurus, Michael W. S., Nahuel Fernandez, Shana Gitnick, Tyler Behl   
 
 If you would like to contribute too, check out https://serilum.com/donate. Appreciate it! <3   
 '''
@@ -22,7 +22,7 @@ If you would like to contribute too, check out https://serilum.com/donate. Appre
 [[dependencies.anvilrestoration]]
     modId="collective"
     mandatory=true
-    versionRange="[7.61,)"
+    versionRange="[7.78,)"
     ordering="NONE"
     side="BOTH"
 
