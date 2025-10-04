@@ -6,7 +6,7 @@ logoFile="icon.png"
 
 [[mods]]
 modId="anvilrestoration"
-version="2.4"
+version="2.5"
 displayName="Anvil Restoration"
 displayURL="https://serilum.com/mod/anvil-restoration"
 authors="Rick South"
@@ -22,7 +22,7 @@ If you would like to contribute too, check out https://serilum.com/donate. Appre
 [[dependencies.anvilrestoration]]
     modId="collective"
     mandatory=true
-    versionRange="[8.4,)"
+    versionRange="[8.8,)"
     ordering="NONE"
     side="BOTH"
 
