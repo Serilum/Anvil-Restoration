@@ -1,7 +1,7 @@
-package com.natamus.anvilrestoration;
+package com.serilum.anvilrestoration;
 
-import com.natamus.anvilrestoration.forge.events.ForgeAnvilInteractEvent;
-import com.natamus.anvilrestoration.util.Reference;
+import com.serilum.anvilrestoration.forge.events.ForgeAnvilInteractEvent;
+import com.serilum.anvilrestoration.util.Reference;
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
 import net.minecraftforge.common.MinecraftForge;
@@ -28,7 +28,7 @@ public class ModForge {
 	}
 
 	private void loadComplete(final FMLLoadCompleteEvent event) {
-    	MinecraftForge.EVENT_BUS.register(ForgeAnvilInteractEvent.class);
+		MinecraftForge.EVENT_BUS.register(ForgeAnvilInteractEvent.class);
 	}
 
 	private static void setGlobalConstants() {

@@ -1,6 +1,6 @@
-package com.natamus.anvilrestoration.forge.events;
+package com.serilum.anvilrestoration.forge.events;
 
-import com.natamus.anvilrestoration.events.AnvilInteractEvent;
+import com.serilum.anvilrestoration.events.AnvilInteractEvent;
 import net.minecraft.world.InteractionResult;
 import net.minecraftforge.event.entity.player.PlayerInteractEvent;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
