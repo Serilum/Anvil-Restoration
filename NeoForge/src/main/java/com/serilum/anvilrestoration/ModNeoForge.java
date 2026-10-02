@@ -1,7 +1,7 @@
-package com.natamus.anvilrestoration;
+package com.serilum.anvilrestoration;
 
-import com.natamus.anvilrestoration.neoforge.events.NeoForgeAnvilInteractEvent;
-import com.natamus.anvilrestoration.util.Reference;
+import com.serilum.anvilrestoration.neoforge.events.NeoForgeAnvilInteractEvent;
+import com.serilum.anvilrestoration.util.Reference;
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
 import net.neoforged.neoforge.common.NeoForge;
