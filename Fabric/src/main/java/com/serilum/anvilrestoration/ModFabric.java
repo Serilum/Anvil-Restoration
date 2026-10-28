@@ -1,7 +1,7 @@
-package com.natamus.anvilrestoration;
+package com.serilum.anvilrestoration;
 
-import com.natamus.anvilrestoration.events.AnvilInteractEvent;
-import com.natamus.anvilrestoration.util.Reference;
+import com.serilum.anvilrestoration.events.AnvilInteractEvent;
+import com.serilum.anvilrestoration.util.Reference;
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
 import net.fabricmc.api.ModInitializer;

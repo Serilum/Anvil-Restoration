@@ -1,4 +1,4 @@
-package com.natamus.anvilrestoration.events;
+package com.serilum.anvilrestoration.events;
 
 import net.minecraft.core.BlockPos;
 import net.minecraft.core.Direction;
